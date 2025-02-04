@@ -1,6 +1,6 @@
 {
   "name": "aksharai-skeleton",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Linting and prepping skeleton project.",
   "main": "index.js",
   "repository": "git@github.com:nexonetech/aksharai-skeleton.git",
